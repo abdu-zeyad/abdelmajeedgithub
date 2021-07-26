@@ -20,8 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <br />
 <br />
 <br />
-
-- 👨🏽‍💻 I’m currently astudent at LTUC  ;
+- 👨🏽‍💻 I’m currently astudent at LTUC ;
 <br />
 <br />
 - 💬 Ask me about anything, I am happy to help;
