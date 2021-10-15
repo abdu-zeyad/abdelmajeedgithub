@@ -4,8 +4,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![My Live CV](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://abdu-zeyad.github.io/AbdPortfolio/)
-
+[My live CV](https://abdu-zeyad.github.io/AbdPortfolio/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/abdu-zeyad)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdalmajeedzeyad/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/i_am_abdelmajeed/)
